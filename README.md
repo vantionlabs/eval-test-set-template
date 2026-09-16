@@ -1,4 +1,25 @@
-# Eval test set template
+<p align="center">
+  <a href="https://vantion.co">
+    <img src="https://raw.githubusercontent.com/vantionlabs/.github/main/profile/banner.png" alt="Vantion Labs" width="100%" />
+  </a>
+</p>
+
+<h1 align="center">Eval test set template</h1>
+
+<p align="center">
+  <b>A CSV test set and grading rubric for evaluating LLM apps on real cases.</b><br />
+  The columns we use, example rows, and a rubric for answers that need judgement.
+</p>
+
+<p align="center">
+  <a href="https://github.com/vantionlabs/eval-test-set-template/generate"><img alt="Use this template" src="https://img.shields.io/badge/Use_this_template-2233f0?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="eval-test-set.csv"><img alt="format: CSV" src="https://img.shields.io/badge/format:_CSV-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /></a>
+  <a href="eval-grading-rubric.md"><img alt="rubric: Markdown" src="https://img.shields.io/badge/rubric:_Markdown-f4f4f6?style=flat-square" /></a>
+  <a href="LICENSE"><img alt="MIT" src="https://img.shields.io/badge/licence-MIT-f4f4f6?style=flat-square" /></a>
+  <a href="https://vantion.co"><img alt="Vantion Labs" src="https://img.shields.io/badge/by-Vantion_Labs-2233f0?style=flat-square" /></a>
+</p>
+
+---
 
 A CSV test set and grading rubric for evaluating LLM apps on real cases.
 
