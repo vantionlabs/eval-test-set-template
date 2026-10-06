@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://vantion.co">
     <img src="https://raw.githubusercontent.com/vantionlabs/.github/main/profile/banner.png" alt="Vantion Labs" width="100%" />
-  </a>
 </p>
 
 <h1 align="center">Eval test set template</h1>
@@ -16,7 +14,7 @@
   <a href="eval-test-set.csv"><img alt="format: CSV" src="https://img.shields.io/badge/format:_CSV-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /></a>
   <a href="eval-grading-rubric.md"><img alt="rubric: Markdown" src="https://img.shields.io/badge/rubric:_Markdown-f4f4f6?style=flat-square" /></a>
   <a href="LICENSE"><img alt="MIT" src="https://img.shields.io/badge/licence-MIT-f4f4f6?style=flat-square" /></a>
-  <a href="https://vantion.co"><img alt="Vantion Labs" src="https://img.shields.io/badge/by-Vantion_Labs-2233f0?style=flat-square" /></a>
+  <img alt="Vantion Labs" src="https://img.shields.io/badge/by-Vantion_Labs-2233f0?style=flat-square" />
 </p>
 
 ---
@@ -67,8 +65,6 @@ Keep `must_include` and `must_not_include` short and specific. A citation marker
 
 ## The full guide
 
-The rest of the guide, with worked examples, lives on our site: [LLM eval test set template: build your evals from real cases](https://vantion.co/developers/eval-test-set-template).
-
 ---
 
-Made by [Vantion Labs](https://vantion.co). MIT licensed: use it, change it, ship it.
+Made by Vantion Labs. MIT licensed: use it, change it, ship it.
